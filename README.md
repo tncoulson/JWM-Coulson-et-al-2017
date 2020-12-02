@@ -1,1 +1,1 @@
-# JWM-Coulson-et-al-2017
+# Hyper-allometric-scaling
